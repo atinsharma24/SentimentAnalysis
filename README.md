@@ -1,6 +1,7 @@
-# Sentiment Analysis and Natural Language Processing for Marketing
+# MADE BY ATIN SHARMA
+## 20BCE2497
 
-I'm keeping my documents/source codes related to [this Manning live project](https://www.manning.com/liveproject/sentiment-analysis-and-natural-language-processing-for-marketing).
+# Sentiment Analysis and Natural Language Processing for Marketing
 
 #### From the project summary:
 
